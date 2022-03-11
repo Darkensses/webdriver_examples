@@ -1,11 +1,2 @@
-
- _ _ _       _    ___       _                
-| | | | ___ | |_ | . \ _ _ <_> _ _  ___  _ _ 
-| | | |/ ._>| . \| | || '_>| || | |/ ._>| '_>
-|__/_/ \___.|___/|___/|_|  |_||__/ \___.|_|  
-                                             
- ___                       _                 
-| __>__   ___ ._ _ _  ___ | | ___  ___       
-| _> \ \/<_> || ' ' || . \| |/ ._><_-<       
-|___>/\_\<___||_|_|_||  _/|_|\___./__/       
-                     |_|                     
+Este repo contiene demostraciones y ejercicios que se pueden dar en un taller 
+de automatización de pruebas. Úsalo para practicar, aprender y compartir.
