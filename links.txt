@@ -1,0 +1,12 @@
+#01 https://w3c.github.io/webdriver/
+#02 https://chromedriver.chromium.org/
+#03 https://www.selenium.dev/downloads/
+#04 http://demo.automationtesting.in/Register.html
+#05 https://peter.sh/experiments/chromium-command-line-switches/
+#06 https://www.pixect.com/es/
+#07 https://media.xiph.org/video/derf/
+#08 https://github.com/cypress-io/cypress/issues/2704
+#09 https://github.com/cypress-io/cypress
+#10 https://github.com/puppeteer/puppeteer
+#11 https://github.com/microsoft/playwright
+#12 https://github.com/getgauge/taiko
